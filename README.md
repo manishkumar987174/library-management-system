@@ -44,8 +44,9 @@ cd backend
 node server.js  
 
 ### Frontend
-cd frontend  
-npm start  
+cd frontend
+npm install
+npm start 
 
 ## Note
 This project focuses on core transaction workflows.
