@@ -10,7 +10,7 @@ import "./App.css";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<LoginOptions />} />
+      <Route path="/" element={<LoginOptions />} />   
 
       <Route path="/login/admin" element={<AdminLogin />} />
       <Route path="/login/user" element={<UserLogin />} />
